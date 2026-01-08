@@ -16,3 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ![Alt text](assets/videos/examples/kambio_splash_screen.gif)
+![Alt text](assets/videos/examples/kambio_exmaple.gif)
